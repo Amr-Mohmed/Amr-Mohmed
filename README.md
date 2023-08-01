@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=data-structures&logoColor=007ACC)&nbsp;
+![Object Oriented Programming](https://img.shields.io/badge/-Object%20oriented-programming-05122A?style=flat&logo=object-oriented-programming&logoColor=007ACC)&nbsp;
 
 
