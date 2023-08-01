@@ -27,8 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<div style="display: flex; align-items: center; justify-content: center; width: 200px; height: 200px; background-color: #0066cc; color: white; font-size: 2em; font-weight: bold; text-transform: uppercase;">
-  <span style="text-align: center;">Data Structures</span>
-</div>
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat-square&logo=object-oriented-programming&logoColor=ffffff)
+![Data Structures](https://img.shields.io/badge/-Data structures-05122A?style=flat-square&logo=Data&logoColor=ffffff)
 
