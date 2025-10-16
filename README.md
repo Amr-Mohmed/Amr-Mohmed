@@ -1,35 +1,51 @@
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<h2 align="center">👋 Hey there! I'm Amr Mohamed</h2>
 
-<h3 align="center">
-  Welcome to Amr Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  🚀 <b>Frontend Developer | Angular Specialist | Performance & Clean Code Enthusiast</b>  
+</p>
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Angular;Clean+Code+%7C+Performance+Driven;Always+Learning+%26+Building+Cool+Stuff!">
+  </a>
+</p>
 
-### Connect with Me :
+---
 
-<a href="https://linkedin.com/in/amr-mohamed-322695265/" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Amr_Mohmed1" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://wa.me/+201122119627" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 💡 About Me
+- 🎯 Passionate about building **high-performance, scalable web apps** with **clean, maintainable code**  
+- 💻 Experienced with **Angular**, **TypeScript**, **Tailwind**, and **RESTful APIs**  
+- 🤝 Team player with real-world experience 
+- 🌱 Always learning and exploring new tools to enhance **UI/UX and web performance**
 
+---
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat-square&logo=object-oriented-programming&logoColor=ffffff)&nbsp;
-![Data Structures](https://img.shields.io/badge/-Data%20structures-05122A?style=flat-square&logo=data-structures&logoColor=ffffff)
+### 🧰 Tech Stack
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-05122A?style=flat)
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat)
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/amrmohmed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Amr_Mohmed1" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/+201122119627" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+
+---
+
+⭐️ *“Code with clarity. Build with purpose.”*  
