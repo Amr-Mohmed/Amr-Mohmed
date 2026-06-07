@@ -3,21 +3,19 @@
 <h2 align="center">👋 Hey there! I'm Amr Mohamed</h2>
 
 <p align="center">
-  🚀 <b>Frontend Developer | Angular Specialist | Performance & Clean Code Enthusiast</b>  
+  🚀 <b>Frontend Developer | Angular & React Specialist | Performance & Clean Code Enthusiast</b>  
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Angular;Clean+Code+%7C+Performance+Driven;Always+Learning+%26+Building+Cool+Stuff!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Angular+%26+React;Clean+Code+%7C+Performance+Driven;Always+Learning+%26+Building+Cool+Stuff!">
   </a>
 </p>
 
 ---
 
 ### 💡 About Me
-- 🎯 Passionate about building **high-performance, scalable web apps** with **clean, maintainable code**  
-- 💻 Experienced with **Angular**, **TypeScript**, **Tailwind**, and **RESTful APIs**  
-- 🤝 Team player with real-world experience 
+- 🎯 Passionate about building **high-performance, scalable web apps** with **clean, maintainable code** - 💻 Experienced with **Angular**, **React**, **TypeScript**, **Tailwind**, and **RESTful APIs** - 🤝 Team player with real-world experience 
 - 🌱 Always learning and exploring new tools to enhance **UI/UX and web performance**
 
 ---
@@ -25,6 +23,7 @@
 ### 🧰 Tech Stack
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -47,5 +46,3 @@
 <a href="https://wa.me/+201122119627" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
 ---
-
-⭐️ *“Code with clarity. Build with purpose.”*  
